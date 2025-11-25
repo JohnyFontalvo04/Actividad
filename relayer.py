@@ -19,7 +19,7 @@ CONTRACT_ADDRESS = Web3.to_checksum_address(
 # Private key de PRUEBA (la que autorizaste usar aquí).
 PRIVATE_KEY = os.environ.get(
     "PRIVATE_KEY",
-    "0x16b8b7fb4cd55507269390a5ad7206f384f4c4b5"
+    "4f1030c2d69e35b09f307dc6a337f1827265bf061ba281d88bda4fb2efc0db60"
 )
 
 CHAIN_ID = 11155111  # Sepolia
